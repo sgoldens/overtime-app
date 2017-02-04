@@ -15,7 +15,7 @@
 - Email summary to Admin Users for approval
 - Need documentation for no overtime
 
-## UI:
+## UI: 
 - Bootstrap -> formatting
 
 ## Libraries:
