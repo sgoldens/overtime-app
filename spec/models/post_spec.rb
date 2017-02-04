@@ -11,7 +11,7 @@ RSpec.describe Post, type: :model do
   	end
 
   	it 'cannot be created without a date and rationale' do
-
+  		expect(Post.create()).to_not be_valid
   	end
 
   end
