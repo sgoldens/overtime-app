@@ -20,3 +20,6 @@ x AdminUser -> STI (single table inheritence)
 
 ## Libraries:
 - Devise, Administrate, Bootstrap, Twilio, Dotenv, Rspec, Capybara
+
+## Refactor TODOS:
+- Refactor user association integration test in post_spec
