@@ -4,9 +4,9 @@
 
 ## Models
 
-- Post -> date:date rationale:text
-x User -> Devise
-x AdminUser -> STI (single table inheritence)
+- X Post -> date:date rationale:text
+- X User -> Devise
+- X AdminUser -> STI (single table inheritence)
 
 ## Features:
 - Aprroved Workflow
@@ -16,7 +16,7 @@ x AdminUser -> STI (single table inheritence)
 - Need documentation for no overtime
 
 ## UI: 
-- Bootstrap -> formatting
+- X Bootstrap -> formatting
 
 ## Libraries:
 - Devise, Administrate, Bootstrap, Twilio, Dotenv, Rspec, Capybara
