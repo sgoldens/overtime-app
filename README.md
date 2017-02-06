@@ -9,7 +9,7 @@
 - X AdminUser -> STI (single table inheritence)
 
 ## Features:
-- Aprroved Workflow
+- Appsroved Workflow
 - SMS Messages -> Link to log time
 - Admin dashboard -> Administrate Gem
 - Email summary to Admin Users for approval
