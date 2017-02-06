@@ -1,6 +1,6 @@
 # Overtime App
 
-## Key requirement: company needs
+## Key requirement: company needs to document if overtime was used each week for each employee and have a record of it for potential auditing.
 
 ## Models
 
