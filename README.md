@@ -12,6 +12,7 @@
 - Appsroved Workflow
 - SMS Messages -> Link to log time
 - Admin dashboard -> Administrate Gem
+- Block non admin and guest users
 - Email summary to Admin Users for approval
 - Need documentation for no overtime
 
