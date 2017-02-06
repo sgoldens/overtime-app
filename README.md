@@ -17,6 +17,8 @@
 
 ## UI: 
 - X Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the styles for forms
 
 ## Libraries:
 - Devise, Administrate, Bootstrap, Twilio, Dotenv, Rspec, Capybara
